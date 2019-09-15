@@ -3998,6 +3998,7 @@ skills["Smite"] = {
 		["Two Handed Mace"] = true,
 		["One Handed Axe"] = true,
 		["One Handed Sword"] = true,
+		["Bow"] = true,
 	},
 	statDescriptionScope = "skill_stat_descriptions",
 	castTime = 1,
